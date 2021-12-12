@@ -9,19 +9,32 @@ Sentiment analysis of Bitcoin and Ethereum articles.
 ## Libraries
 This Jupyter Lab notebook utilizes the following libraries:
 
- --   path
+
+ --   Path (pathlib)
+ 
+ --   NewsApiClient (newsapi)
+ 
+ --   os
+ 
+ --   load_dotenv (dotenv)
+ 
+ --   nltk
+ 
+ --   analyzer
 
  --   collections
-
- --   sklearn
  
- --   imblearn
+ --   string
+ 
+ --   wordcloud
+ 
+ --   spacy
+ 
+ --   re
 
  --   pandas
 
  --   Numpy
-
- --   Pathlib
 
  --   matplotlib
 
