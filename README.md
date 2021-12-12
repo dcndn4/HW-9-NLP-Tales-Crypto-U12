@@ -1,11 +1,7 @@
 # HW-9-NLP-Tales-Crypto-U12
 Unit 12 Homework - Tales from the Crypto- ML- Natural Language Processing
 
-
-
-
-
-
+Sentiment analysis of Bitcoin and Ethereum articles. 
 
 
 # Technical Notes
